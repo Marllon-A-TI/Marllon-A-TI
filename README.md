@@ -44,22 +44,22 @@ APIs
 🌐 Django
 Projetos e aplicações desenvolvidas durante meus estudos de Django.
 
-🔗 https://github.com/Marllon-A-TI/projetos-django
+🔗 https://github.com/Marllon-A-TI/Projetos-Django.git
 
 🎨 PySide6
 Projetos de interfaces gráficas desenvolvidos com Python e PySide6.
 
-🔗 https://github.com/Marllon-A-TI/Projetos_PySyde6
+🔗 https://github.com/Marllon-A-TI/Projetos-PySide6.git
 
 🗄️ MySQL
 Estudos de SQL, modelagem de dados e banco de dados MySQL.
 
-🔗 https://github.com/Marllon-A-TI/MySql_visual_studi_code
+🔗 https://github.com/Marllon-A-TI/Projetos-MySql.git
 
 🐍 Curso Python - Otávio Miranda
 Exercícios, desafios e projetos desenvolvidos durante o curso.
 
-🔗 https://github.com/Marllon-A-TI/Curso_OM-Python_Scripts_Geral
+🔗 https://github.com/Marllon-A-TI/Python-Curso-Otavio-Miranda.git
 
 
 📚 Minha Filosofia
