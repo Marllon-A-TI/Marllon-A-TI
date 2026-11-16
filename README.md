@@ -1,79 +1,28 @@
-Olá! Meu nome é Marllon.
+# Olá, eu sou o Marllon
 
-Sou estudante de Ciência da Computação (2026) e atualmente estou realizando o curso de Python do professor Otávio Miranda.
+Estudante de Ciência da Computação (Anhanguera, EAD, desde jan/2026). Trabalho desde os 13 anos, servi 1 ano no Exército (21º GAC, na área de TI) e hoje ajudo a gerir o pet shop da minha família.
 
-Sempre gostei de automação e otimização de tarefas, tanto dentro quanto fora da programação. Por isso, desenvolvi um grande interesse por Python e pelas inúmeras possibilidades que essa linguagem oferece.
+Sempre gostei de automação e de otimizar tarefas, dentro e fora da programação. Por isso escolhi Python.
 
-Criei este repositório para registrar minha evolução na programação, desde os primeiros "Hello World" até projetos mais avançados.
+## Foco atual
 
-Meu objetivo é me tornar um desenvolvedor Python, explorando tecnologias voltadas para:
+- Python (POO, Django, Selenium, PySide6) e bancos de dados (PostgreSQL, MySQL, SQLite)
+- Data Science e Machine Learning (curso do Jose Portilla, iniciado em 14/11/2026)
 
-Automação de tarefas
-Desenvolvimento Web
-Inteligência Artificial
-Cybersegurança
-Desenvolvimento de E-commerce
+## Projetos
 
-🐍 Tecnologias que estou estudando
-Python geral
-PySide6
-Selenium
-Expressões Regulares (RegEx)
-Testes Automatizados
-TDD
-Programação Orientada a Objetos (POO)
-Design Patterns (GoF)
-Django
-Desenvolvimento Web
-HTML
-CSS
-JavaScript
-Banco de Dados
-SQL
-SQLite
-MySQL
+| Repositório | O que é |
+|---|---|
+| [Pet Shop ERP](https://github.com/Marllon-A-TI/Projetos-Django/tree/main/petshop-erp-ajustado/petshop-erp) | Sistema de gestão para pet shop (Django e PostgreSQL): produtos, estoque, vendas, financeiro, dashboard e logs |
+| [Projetos-Django](https://github.com/Marllon-A-TI/Projetos-Django) | Estudos de Django. Pastas começadas por `Curso_` foram feitas junto com o professor |
+| [Projetos-PySide6](https://github.com/Marllon-A-TI/Projetos-PySide6) | Interfaces gráficas com Python e PySide6 |
+| [Projetos-MySQL](https://github.com/Marllon-A-TI/Projetos-MySQL) | Estudos de SQL e modelagem de dados com MySQL |
+| [Padrao-SQLite](https://github.com/Marllon-A-TI/Padrao-SQLite) | Estudo de SQLite com Python |
+| [Python-Curso-Otavio-Miranda](https://github.com/Marllon-A-TI/Python-Curso-Otavio-Miranda) | Registro do curso completo de Python (concluído em 13/11/2026) |
+| [Projetos-Curso-Ml-Data-Science-Jose-Portilla](https://github.com/Marllon-A-TI/Projetos-Curso-Ml-Data-Science-Jose-Portilla) | Estudos de Data Science e Machine Learning (em andamento) |
 
-Ferramentas
-Git
-GitHub
-Integrações
-APIs
+## Como trabalho
 
-📂 Repositórios de Estudo:
+Não busco perfeição, busco constância: commits pequenos e frequentes e um README em cada repositório. Quando um projeto é feito junto com um curso, o README diz isso.
 
-🌐 Django
-Projetos e aplicações desenvolvidas durante meus estudos de Django.
-
-🔗 https://github.com/Marllon-A-TI/Projetos-Django.git
-
-🎨 PySide6
-Projetos de interfaces gráficas desenvolvidos com Python e PySide6.
-
-🔗 https://github.com/Marllon-A-TI/Projetos-PySide6.git
-
-🗄️ MySQL
-Estudos de SQL, modelagem de dados e banco de dados MySQL.
-
-🔗 https://github.com/Marllon-A-TI/Projetos-MySql.git
-
-🐍 Curso Python - Otávio Miranda
-Exercícios, desafios e projetos desenvolvidos durante o curso.
-
-🔗 https://github.com/Marllon-A-TI/Python-Curso-Otavio-Miranda.git
-
-
-📚 Minha Filosofia
-Não estou buscando perfeição.
-
-Estou buscando constância.
-
-Cada projeto representa um passo adiante no meu aprendizado e na construção da minha carreira como desenvolvedor.
-
-📈 Status da Jornada
-✅ Início dos estudos
-✅ Python
-✅ Django
-✅ Banco de Dados
-⏳ APIs
-⏳ Projetos completos
-"Um pequeno progresso todos os dias gera resultados enormes no futuro."
+Contato: marllon.araujo.ti@gmail.com
